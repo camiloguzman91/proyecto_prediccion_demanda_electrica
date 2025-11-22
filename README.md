@@ -1,12 +1,18 @@
 # Proyecto A – Predicción de Consumo Eléctrico
+## 🎯 Objetivo General
+Desarrollar un sistema de forecasting que permita anticipar el consumo energético con modelos estadísticos y de machine learning, siguiendo buenas prácticas de ingeniería de datos y gestión de proyectos.
 
-Repositorio de ejemplo profesional que integra ingeniería eléctrica, ciencia de datos, análisis de datos y gestión de proyectos.
+---
 
-## Estructura
-- data/
-- notebooks/
-- models/
-- scripts/
+## 🧠 Tecnologías Utilizadas
+- Python 3.10+
+- Pandas, NumPy
+- Scikit-learn
+- LightGBM
+- Statsmodels (SARIMA)
+- Matplotlib
+- Jupyter Notebooks
 
-## Objetivo
-Predecir demanda eléctrica horaria de un edificio comercial usando modelos estadísticos y de machine learning.
+---
+
+## 🏗 Arquitectura del Proyecto
